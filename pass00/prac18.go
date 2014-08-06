@@ -1,4 +1,4 @@
-// golang practice 18 - methods
+// golang practice 18 - Methods
 
 package main
 

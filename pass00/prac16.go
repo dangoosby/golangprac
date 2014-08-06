@@ -1,4 +1,4 @@
-// golang practice 16 - pointers
+// golang practice 16 - Pointers
 
 package main 
 

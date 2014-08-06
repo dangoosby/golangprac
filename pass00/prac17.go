@@ -1,4 +1,4 @@
-// golang practice 17 - structs
+// golang practice 17 - Structs
 
 package main
 
