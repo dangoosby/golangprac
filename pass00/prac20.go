@@ -1,4 +1,4 @@
-// golang practic 20 - Errors
+// golang practice 20 - Errors
 
 package main
 
