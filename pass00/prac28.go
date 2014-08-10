@@ -1,4 +1,4 @@
-// golang practice 27 - Non-Blocking Channel Operations
+// golang practice 28 - Non-Blocking Channel Operations
 
 package main
 
